@@ -1558,11 +1558,6 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 318511a9-0594-4c9e-9d1b-7a3358ccc8c5)
   )
-  (text "Calculate resistor value \naccording to current needed \nfor each component"
-    (at 203.2 66.04 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 42caa42f-897e-47d1-80da-d87a559eb04d)
-  )
   (text "Why low pass filter?\nPWM is a rectangular signal \nto reduce attenuations we use \nLowpass RC filter to smooth \nthe output waveform and \nfilter out high-frequency components\nf_c = 1 / (2 * pi * R * C) in this case f_c = 5khz\nfor PWM frequency at 42khz f_c = f_PWM/10"
     (at 20.32 194.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -2039,35 +2034,6 @@
         )
         (path "/b616d203-cf5c-462f-b907-860a8573592a/9ad1e8da-d13f-4a6e-8aa2-8655a1d493de"
           (reference "#PWR018") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 236.22 76.2 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 37abd3b7-a653-4eb9-9468-f77e778b7b4f)
-    (property "Reference" "R3k1" (at 236.22 69.85 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "R" (at 236.22 72.39 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 236.22 77.978 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 236.22 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid ad9641ef-a7b9-4176-990a-258014a55e8a))
-    (pin "2" (uuid 34fc042f-79c9-40e6-9463-71d59e067eae))
-    (instances
-      (project "ESP"
-        (path "/b616d203-cf5c-462f-b907-860a8573592a"
-          (reference "R3k1") (unit 1)
-        )
-        (path "/b616d203-cf5c-462f-b907-860a8573592a/9ad1e8da-d13f-4a6e-8aa2-8655a1d493de"
-          (reference "R3k3") (unit 1)
         )
       )
     )
@@ -2553,35 +2519,6 @@
         )
         (path "/b616d203-cf5c-462f-b907-860a8573592a/9ad1e8da-d13f-4a6e-8aa2-8655a1d493de"
           (reference "R3k2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 222.25 74.93 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 83b030e4-b262-42be-adfc-d2cc2c98d261)
-    (property "Reference" "R3k1" (at 222.25 68.58 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "R" (at 222.25 71.12 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 222.25 76.708 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 222.25 74.93 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 99cb8545-1d55-4107-9033-56f75df9d702))
-    (pin "2" (uuid 7ddb02c9-b6a3-41ae-b285-c9e6dbd0d826))
-    (instances
-      (project "ESP"
-        (path "/b616d203-cf5c-462f-b907-860a8573592a"
-          (reference "R3k1") (unit 1)
-        )
-        (path "/b616d203-cf5c-462f-b907-860a8573592a/9ad1e8da-d13f-4a6e-8aa2-8655a1d493de"
-          (reference "R3k4") (unit 1)
         )
       )
     )
@@ -3339,35 +3276,6 @@
         )
         (path "/b616d203-cf5c-462f-b907-860a8573592a/9ad1e8da-d13f-4a6e-8aa2-8655a1d493de"
           (reference "C9") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 212.2274 74.756 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid f3b58049-61a9-40b7-8941-f4552eebdd4c)
-    (property "Reference" "R3k1" (at 212.2274 68.406 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "R" (at 212.2274 70.946 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 212.2274 76.534 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 212.2274 74.756 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 2782314d-908a-4e37-bf6d-5bff19882644))
-    (pin "2" (uuid 5e41f22c-2645-4db9-839f-5c0cd5c0db8f))
-    (instances
-      (project "ESP"
-        (path "/b616d203-cf5c-462f-b907-860a8573592a"
-          (reference "R3k1") (unit 1)
-        )
-        (path "/b616d203-cf5c-462f-b907-860a8573592a/9ad1e8da-d13f-4a6e-8aa2-8655a1d493de"
-          (reference "R3k5") (unit 1)
         )
       )
     )
