@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PB400EEQR1BLK")(type "KiCad")(uri "${KIPRJMOD}/lib/PB400EEQR1BLK")(options "")(descr ""))
+  (lib (name "RAPC722X")(type "KiCad")(uri "${KIPRJMOD}/lib/RAPC722X")(options "")(descr ""))
+)
