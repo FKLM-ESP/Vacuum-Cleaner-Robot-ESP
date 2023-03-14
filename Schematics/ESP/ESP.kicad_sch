@@ -566,6 +566,7 @@
     )
   )
 
+
   (junction (at 92.71 110.49) (diameter 0) (color 0 0 0 0)
     (uuid 0062998d-45f5-400b-95fb-6c43b6297e8f)
   )
@@ -864,12 +865,12 @@
     (uuid f75a2a84-ee11-4419-81c0-e40909b23e8e)
   )
 
-  (text "CO/DO pins are high when battery voltage\nis within allowed range, thus a´ctivating\ntheir respective switches. when all the switches\nare activated, the final two MOSFETs are\nactivated adn the negative terminal of the\nbattery is connected to the negative terminal\nof the circuit"
+  (text "CO/DO pins are high when battery voltage\nis within allowed range, thus a´ctivating\ntheir respective switches. when all the switches\nare activated, the final two MOSFETs are\nactivated and the negative terminal of the\nbattery is connected to the negative terminal\nof the circuit"
     (at 107.95 50.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 126c01d4-eb3f-4d23-b04c-52ba01687634)
   )
-  (text "Capacitor and resistor to stabilize\ninput voltage, recommmeneded values\nare: 330 Ohm and 100nF"
+  (text "Capacitor and resistor to stabilize\ninput voltage, recommeneded values\nare: 330 Ohm and 100nF"
     (at 52.07 44.45 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b2eb2a51-6f2e-40da-b7e3-e8b44304d38c)
