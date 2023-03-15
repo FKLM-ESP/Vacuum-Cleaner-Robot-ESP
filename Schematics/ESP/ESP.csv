@@ -40,3 +40,4 @@ Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DNP,digikey link,unit pr
 33,1,U5,LM2596S-5,Regulator_Switching:LM2596S-5,Package_TO_SOT_SMD:TO-263-5_TabPin3,http://www.ti.com/lit/ds/symlink/lm2596.pdf,~,https://www.digikey.fi/en/products/detail/texas-instruments/LM2596S-5-0/3701226,11.16,11.16
 34,1,U7,NUCLEO64-F411RE,MCU_Module:NUCLEO64-F411RE,Module:ST_Morpho_Connector_144_STLink,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00105918.pdf,~,Gotten from class,0,0
 35,2,"U8, U9",74LVC1G11,74xGxx:74LVC1G11,Package_TO_SOT_SMD:SOT-23-6_Handsoldering,http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf,~,https://www.digikey.fi/en/products/detail/diodes-incorporated/74LVC1G11W6-7/3829446,0.45000000000000001,0.90000000000000002
+
