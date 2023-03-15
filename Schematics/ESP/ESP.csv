@@ -4,7 +4,7 @@ Tool:,Eeschema (7.0.0)
 Generator:,C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py
 Component Count:,63
 ,
-Collated Components:,
+Collated Components:,a
 Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DNP,digikey link,unit price,total price
 1,3,"C1, C2, C3",100nF,Device:C_Small,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,~,~,https://www.digikey.fi/en/products/detail/kemet/T491A104K035AT/818537,0.63,1.8900000000000001
 2,2,"C4, C8",100nF,Device:C_Small,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,~,https://www.digikey.fi/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701,0.11,0.22
