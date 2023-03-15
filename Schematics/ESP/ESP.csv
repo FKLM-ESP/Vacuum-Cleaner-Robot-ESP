@@ -8,8 +8,8 @@ Collated Components:,
 ,
 Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DNP,digikey link
 1,3,"C1, C2, C3",100nF,Device:C_Small,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,~,,https://www.digikey.fi/en/products/detail/kemet/T491A104K035AT/818537
-2,2,"C4, C8",100nF,Device:C_Small,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,
-3,2,"C5, C10",10n,Device:C_Small,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,
+2,2,"C4, C8",100nF,Device:C_Small,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,https://www.digikey.fi/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701
+3,2,"C5, C10",10n,Device:C_Small,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,https://www.digikey.fi/en/products/detail/kyocera-avx/0402YC103KAT2A/563224
 4,2,"C6, C9",47u,Device:C_Small,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,https://www.digikey.fi/en/products/detail/united-chemi-con/EKXL401ELL470MJ40S/8543742
 5,1,C7,680u,Device:C_Polarized_Small,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1259.pdf,,https://www.digikey.fi/en/products/detail/united-chemi-con/EKZN350ELL681MJ25S/4843871
 6,1,C11,220u,Device:C_Polarized_Small,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,https://datasheets.kyocera-avx.com/TPS.pdf,,https://www.digikey.fi/en/products/detail/kemet/T491D227K016AT/3907827
