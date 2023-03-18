@@ -1204,6 +1204,7 @@
     )
   )
 
+
   (junction (at 197.485 143.51) (diameter 0) (color 0 0 0 0)
     (uuid 00b9b20c-29bd-4ac4-8551-07742b90d216)
   )
@@ -1743,6 +1744,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 03818059-74d1-4125-9dbb-68a028dde19c)
   )
+  (text "Peripherals sheet" (at 15.24 19.05 0)
+    (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
+    (uuid 1c38e11c-623a-4106-8710-3ab1bcb25882)
+  )
   (text "Fan driver" (at 256.54 22.86 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 318511a9-0594-4c9e-9d1b-7a3358ccc8c5)
@@ -1791,7 +1796,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 926a1232-0d62-42b7-b9dc-4cc86911401f)
   )
-  (text "Goes to high voltage peripherals\nV>5v" (at 31.75 24.13 0)
+  (text "Goes to high voltage peripherals\nV>5v" (at 82.55 26.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9629039f-2358-4a48-9d96-2895ac12c5d8)
   )

@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Vaccuum cleaner Robot")
+    (date "2023-03-18")
+    (rev "Version 0.0.1")
+    (company "ESP project")
+  )
+
   (lib_symbols
     (symbol "74xGxx:74LVC1G11" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -5.08 10.16 0)
@@ -566,6 +573,7 @@
     )
   )
 
+
   (junction (at 92.71 110.49) (diameter 0) (color 0 0 0 0)
     (uuid 0062998d-45f5-400b-95fb-6c43b6297e8f)
   )
@@ -868,6 +876,10 @@
     (at 107.95 50.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 126c01d4-eb3f-4d23-b04c-52ba01687634)
+  )
+  (text "Battery charger sheet" (at 17.78 20.32 0)
+    (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
+    (uuid 8d661b2e-0385-4396-99b9-a9e9ff0c5b52)
   )
   (text "Capacitor and resistor to stabilize\ninput voltage, recommeneded values\nare: 330 Ohm and 100nF"
     (at 52.07 44.45 0)
