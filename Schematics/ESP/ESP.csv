@@ -1,14 +1,14 @@
 Reference,Value,Footprint,Datasheet,digikey link,Qty,Price,Total price
-"C1-C4, C8",100nF,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,~,https://www.digikey.fi/en/products/detail/kemet/T491A104K035AT/818537,5,"0,63",3.15
-"C5, C10",10n,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,https://www.digikey.fi/en/products/detail/kyocera-avx/0402YC103KAT2A/563224,2,"0,11",0.22
-"C6, C9",47u,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,https://www.digikey.fi/en/products/detail/united-chemi-con/EKXL401ELL470MJ40S/8543742,2,"2,1",4.2
+"C1-C4, C8",100nF,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,~,CL31B104KBCNNNC Samsung Electro-Mechanics | Capacitors | DigiKey,5,"0,12",0.6
+"C5, C10",10n,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,C1206C103K2REC7800 KEMET | Capacitors | DigiKey,2,"0,24",0.48
+"C6, C9",47u,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,C3216X7R2A474K160AA TDK Corporation | Capacitors | DigiKey,2,0.5456,1.092
 C7,680u,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1259.pdf,https://www.digikey.fi/en/products/detail/united-chemi-con/EKZN350ELL681MJ25S/4843871,1,"1,34",1.34
 C11,220u,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,https://datasheets.kyocera-avx.com/TPS.pdf,https://www.digikey.fi/en/products/detail/kemet/T491D227K016AT/3907827,1,"2,33",2.33
 D1,SK42BL-TP,Diode_SMD:D_SMB,https://www.mccsemi.com/pdf/Products/SK42BL-SK44BL(DO-214AA).pdf,https://www.digikey.fi/en/products/detail/micro-commercial-co/SK42BL-TP/2642029?s=N4IgTCBcDaIMoGkAsYBCAZAtAFQAogF0BfIA,1,"0,52",0.52
 "D2, D4",GREEN,LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~,https://www.digikey.fi/en/products/detail/stanley-electric-co/HPY1105W-TR/428725,2,"0,12",0.24
-F1,3A,Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcg-series.pdf,https://www.digikey.fi/en/products/detail/bel-fuse-inc/0ZCG0150BF2C/4156109,1,"0,27",0.27
-"F2, F3",1.6A,Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcg-series.pdf,https://www.digikey.fi/en/products/detail/bel-fuse-inc/0ZCG0150BF2C/4156109,2,"0,86",1.72
-F4,0.72A,Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcg-series.pdf,https://www.digikey.fi/en/products/detail/bel-fuse-inc/0ZCG0150BF2C/4156109,1,"1,12",1.12
+F1,3A,Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcg-series.pdf,F0603E3R00FSTR KYOCERA AVX | Circuit Protection | DigiKey,1,0.43,0.43
+"F2, F3",1.6A,Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcg-series.pdf,FCC16162ADTP Kamaya Inc. | Circuit Protection | DigiKey,2,"0,27",0.54
+F4,0.72A,Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcg-series.pdf,0685T0750-01 Bel Fuse Inc. | Circuit Protection | DigiKey,1,0.37,0.37
 J1,Barrel_Jack,RAPC722X:SWITCHCRAFT_RAPC722X,https://www.cuidevices.com/product/resource/pj-019.pdf,https://www.digikey.fi/fi/products/detail/gct/DCJ200-10-A-K1-K/9859579,1,"0,87",0.87
 "J2, J7",Conn_01x04_Male,Connector_PinSocket_1.00mm:PinSocket_1x04_P1.00mm_Vertical,~,https://www.digikey.fi/fi/products/detail/kyocera-avx/009276004021106/2346141,2,"1,29",2.58
 J3,Screw_Terminal_01x02,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal",~,https://www.digikey.fi/fi/products/detail/preci-dip/801-87-008-10-001101/3757440,2,"1,16",2.32
@@ -20,13 +20,13 @@ L1,33uH,Inductor_SMD:L_Bourns_SRP2313AA,https://www.bourns.com/docs/Product-Data
 "Q5, Q6",IRLB8721PBF,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591,https://www.digikey.fi/en/products/detail/infineon-technologies/IRLB8721PBF/2127670?s=N4IgTCBcDaIJICUAyAhAHAdjARgAooDEQBdAXyA,2,"1,33",2.66
 Q15,AO3401A,Package_TO_SOT_SMD:SOT-23,http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf,https://www.digikey.fi/en/products/detail/alpha-omega-semiconductor-inc/AO3401A/1855773,1,"0,53",0.53
 Q17,IRF540N,Package_TO_SOT_THT:TO-220-3_Vertical,http://www.irf.com/product-info/datasheets/data/irf540n.pdf,https://www.digikey.fi/en/products/detail/infineon-technologies/IRF540NPBF/811869,1,"1,44",1.44
-"R1, R7, R15, R18",2k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.digikey.fi/en/products/detail/yageo/RT0402BRD072KL/1069198,4,"0,46",1.84
-"R2, R3, R6",330,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.digikey.fi/en/products/detail/walsin-technology-corporation/WR04X331-JTL/13240790,3,"0,11",0.33
+"R1, R7, R15, R18",2k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,RC1206JR-072KL YAGEO | Resistors | DigiKey,4,"0,11",0.44
+"R2, R3, R6",330,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,RC1206JR-07330RL YAGEO | Resistors | DigiKey,3,"0,11",0.33
 "R4, R10",1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf,https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387,2,"0,11",0.22
-"R5, R9, R11",2.7k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.digikey.fi/en/products/detail/yageo/RC0402FR-132K7L/14286631,3,"0,11",0.33
+"R5, R9, R11",2.7k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,RC1206FR-072K7L YAGEO | Resistors | DigiKey,3,"0,11",0.33
 "R8, R12-R14",10k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf,https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387,4,"0,11",0.44
-"R16, R19",39k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.digikey.fi/en/products/detail/yageo/RC0402JR-0739KL/726473,2,"0,11",0.22
-"R17, R20",3k3,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.digikey.fi/en/products/detail/yageo/RC0402FR-133K3L/14286444,2,"0,11",0.22
+"R16, R19",39k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,RC1206FR-0739KL YAGEO | Resistors | DigiKey,2,"0,11",0.22
+"R17, R20",3k3,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,RC1206JR-073K3L YAGEO | Resistors | DigiKey,2,"0,11",0.22
 SW2,SW_Push,Button_Switch_SMD:SW_SPST_PTS645,~,https://www.digikey.fi/en/products/detail/c-k/PTS645SM43SMTR92-LFS/1146840,1,"0,3",0.3
 U1-U3,AP9101CK,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP9101C.pdf,https://www.digikey.fi/en/products/detail/diodes-incorporated/AP9101CK-AHTRG1/5731842,3,"0,52",1.56
 "U4, U6",DRV8871DDA,Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias,http://www.ti.com/lit/ds/symlink/drv8871.pdf,https://www.digikey.it/en/products/detail/texas-instruments/DRV8871DDAR/5639726,2,"3,38",6.76
@@ -41,5 +41,6 @@ Not on PCB,SEN0373,Not on PCB,,https://www.digikey.fi/fi/products/detail/dfrobot
 Not on PCB,Bluetooth HC-05 module,Not on PCB,,https://www.fruugo.fi/bluetooth-hc-05-moduuli/p-52178911-105041881?language=fi&ac=croud&gclid=EAIaIQobChMIlLv194ze_AIVFNZ3Ch2uCQD5EAQYBiABEgLpxvD_BwE,1,"10,95",10.95
 Not on PCB,Etronix Sm Female Connector To Deans Male Plug,Not on PCB,,https://www.hobbylinna.fi/fi/product/etronix-sm-female-connector-to-deans-male-plug/ET0809,1,"2,50",2.5
 Not on PCB,Battery 1800mAh,Not on PCB,,https://www.hobbylinna.fi/fi/product/voltz-1800mah-3s-11-1v-30c-lipo-battery/VZ0418003S,1,"22,30",22.3
+,,,,,,Sum,148.934
 ,,,,,,,
-,,,,,,Total:,157.502
+,,,,,,,
