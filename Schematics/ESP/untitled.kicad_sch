@@ -1882,7 +1882,7 @@
     (property "Reference" "J2" (at 199.39 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x06_Pin" (at 196.85 135.89 0)
+    (property "Value" "Conn_01x06_Pin" (at 198.12 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" (at 198.12 123.19 0)
