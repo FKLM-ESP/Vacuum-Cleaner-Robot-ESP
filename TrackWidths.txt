@@ -1,0 +1,27 @@
+Min is 0.2mm line width
+Input:
+
+2.5mm 5A Main battery+
+
+Main Lines:
+
+0.5 mm 1A MCU& peripherals +5V
+1.8 mm 4A Motors + fan +12V
+
++12V lines:
+
+0.6mm 1.6A Motor +12V
+0.9mm 2.4A Motor + fan +12V
+0.3mm 0.57A Fan +12V
+
++5V lines:
+
+0.3mm MCU +5V
+0.3mm Peripherals
+
+
+0.3mm Signals
+
+
+
+

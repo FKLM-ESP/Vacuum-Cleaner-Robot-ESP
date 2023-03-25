@@ -43,7 +43,7 @@ Not on PCB,Etronix Sm Female Connector To Deans Male Plug,Not on PCB,,https://ww
 Not on PCB,Battery 1800mAh,Not on PCB,,https://www.hobbylinna.fi/fi/product/voltz-1800mah-3s-11-1v-30c-lipo-battery/VZ0418003S,1,"22,30",22.3
 ,headers for shield,,,"PPPC192LFBN-RC Sullins Connector Solutions | Connectors, Interconnects | DigiKey",2,2.61,5.22
 J7,header for MPU,,,"PPPC071LFBN-RC Sullins Connector Solutions | Connectors, Interconnects | DigiKey",1,0.7,0.7
-R13,Resistor for Monitoring,,,RC1206JR-076K2L YAGEO | Resistors | DigiKey,,,
+R13,Resistor for Monitoring,,,RC1206JR-076K2L YAGEO | Resistors | DigiKey,,,#NAME?
 ,switch,,,500SSP1S1M6QEA E-Switch | Switches | DigiKey,1,4,4
-,,,,,1,0.11,0.11
+,fuse,,instead of 3A one,0685T5000-01 Bel Fuse Inc. | Circuit Protection | DigiKey,1,0.37,0.37
 ,,,,,,Sum,152.784
