@@ -44,6 +44,6 @@ Not on PCB,Battery 1800mAh,Not on PCB,,https://www.hobbylinna.fi/fi/product/volt
 ,headers for shield,,,"PPPC192LFBN-RC Sullins Connector Solutions | Connectors, Interconnects | DigiKey",2,2.61,5.22
 J7,header for MPU,,,"PPPC071LFBN-RC Sullins Connector Solutions | Connectors, Interconnects | DigiKey",1,0.7,0.7
 R13,Resistor for Monitoring,,,RC1206JR-076K2L YAGEO | Resistors | DigiKey,,,
-,,,,,,,
+,switch,,,500SSP1S1M6QEA E-Switch | Switches | DigiKey,1,4,4
 ,,,,,1,0.11,0.11
 ,,,,,,Sum,152.784
