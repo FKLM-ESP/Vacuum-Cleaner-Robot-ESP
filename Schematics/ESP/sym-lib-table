@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "PB400EEQR1BLK")(type "KiCad")(uri "${KIPRJMOD}/lib/PB400EEQR1BLK/PB400EEQR1BLK.kicad_sym")(options "")(descr ""))
   (lib (name "eec")(type "Legacy")(uri "${KIPRJMOD}/lib/Nucleo/eec.lib")(options "")(descr ""))
+  (lib (name "BQ7791500PWT")(type "KiCad")(uri "${KIPRJMOD}/lib/BQ7791500PWT/BQ7791500PWT.kicad_sym")(options "")(descr ""))
 )
