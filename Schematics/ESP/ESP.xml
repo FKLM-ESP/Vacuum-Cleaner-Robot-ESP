@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\moura\Desktop\UniOulu\Period_3\Vacuum-Cleaner-Robot-ESP\Schematics\ESP\ESP.kicad_sch</source>
-    <date>27/03/2023 19.21.01</date>
+    <date>28/03/2023 0.34.08</date>
     <tool>Eeschema (7.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -269,7 +269,15 @@
     </comp>
     <comp ref="R2">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0,11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0,11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -279,7 +287,15 @@
     </comp>
     <comp ref="R3">
       <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0,11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0,11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -289,7 +305,15 @@
     </comp>
     <comp ref="R5">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0,11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0,11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -299,7 +323,15 @@
     </comp>
     <comp ref="R6">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0,11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0,11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -309,7 +341,15 @@
     </comp>
     <comp ref="R9">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0,11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0,11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -319,7 +359,15 @@
     </comp>
     <comp ref="R11">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0,11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0,11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -329,7 +377,14 @@
     </comp>
     <comp ref="R24">
       <value>450K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-07453KL/728925</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-07453KL/728925"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -339,7 +394,14 @@
     </comp>
     <comp ref="R25">
       <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206JR-071ML/729187</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206JR-071ML/729187"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -349,7 +411,14 @@
     </comp>
     <comp ref="R26">
       <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100RL/729206</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100RL/729206"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -359,7 +428,14 @@
     </comp>
     <comp ref="R27">
       <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100RL/729206</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100RL/729206"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -369,7 +445,14 @@
     </comp>
     <comp ref="R28">
       <value>100K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100KL/729207</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100KL/729207"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -379,7 +462,15 @@
     </comp>
     <comp ref="R29">
       <value>10K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -389,7 +480,14 @@
     </comp>
     <comp ref="R30">
       <value>3.3M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-073M3L/728767</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-073M3L/728767"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -399,7 +497,15 @@
     </comp>
     <comp ref="R31">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="Price">0,11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0,11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -409,7 +515,14 @@
     </comp>
     <comp ref="R32">
       <value>4.5K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206FR-074K53L/728881?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAA4BmAdjAgF0CAHAFyhAGUWAnASwDsA5iAC%2BBMAE5yEhCGSR02fEVIgADCHpiQAJjXkArLPmLcBYpDIAWAHQHKAAgDWAeQAWAWyybmbSCABVfl4WFxQAWRw0LABXbhxRAgBaHWMoHhjlCzIjLWSIaDlUTDMVS3BKTRFteELeABN2JLA1CF92EAIWAE8mBP9o5GqgA</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206FR-074K53L/728881?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAA4BmAdjAgF0CAHAFyhAGUWAnASwDsA5iAC%2BBMAE5yEhCGSR02fEVIgADCHpiQAJjXkArLPmLcBYpDIAWAHQHKAAgDWAeQAWAWyybmbSCABVfl4WFxQAWRw0LABXbhxRAgBaHWMoHhjlCzIjLWSIaDlUTDMVS3BKTRFteELeABN2JLA1CF92EAIWAE8mBP9o5GqgA"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -419,7 +532,14 @@
     </comp>
     <comp ref="R33">
       <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Price">0.11</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/yageo/RC1206JR-071ML/729187</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Price" value="0.11"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/yageo/RC1206JR-071ML/729187"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -430,6 +550,7 @@
     <comp ref="U1">
       <value>BQ7791500PWT</value>
       <footprint>SOP65P640X120-24N</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/bq77915.pdf</datasheet>
       <fields>
         <field name="Description">3-Series to 5-Series Stackable Ultra-Low-Power Primary Protector With Autonomous Cell Balancing 24-TSSOP -40 to 85</field>
         <field name="Digi-Key_Part_Number">296-50995-1-ND</field>
@@ -437,7 +558,9 @@
         <field name="MP">BQ7791500PWT</field>
         <field name="Mouser-Purchase-URL">https://snapeda.com/shop?store=Mouser&amp;id=2890713</field>
         <field name="Package">TSSOP-24 Texas Instruments</field>
+        <field name="Price">2.52</field>
         <field name="Texas_Instruments-Purchase-URL">https://snapeda.com/shop?store=Texas+Instruments&amp;id=2890713</field>
+        <field name="digikey link">https://www.digikey.fi/en/products/detail/texas-instruments/BQ7791500PWT/9654073?s=N4IgTCBcDaIEIEUDsSCcBGArABmwBQHUAVEAXQF8g</field>
       </fields>
       <libsource lib="BQ7791500PWT" part="BQ7791500PWT" description=""/>
       <property name="Package" value="TSSOP-24 Texas Instruments"/>
@@ -447,6 +570,8 @@
       <property name="MF" value="Texas Instruments"/>
       <property name="Texas_Instruments-Purchase-URL" value="https://snapeda.com/shop?store=Texas+Instruments&amp;id=2890713"/>
       <property name="Digi-Key_Part_Number" value="296-50995-1-ND"/>
+      <property name="Price" value="2.52"/>
+      <property name="digikey link" value="https://www.digikey.fi/en/products/detail/texas-instruments/BQ7791500PWT/9654073?s=N4IgTCBcDaIEIEUDsSCcBGArABmwBQHUAVEAXQF8g"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1123,7 +1248,7 @@
       <tstamps>f2136c3f-01a5-4500-b185-7057955560d0</tstamps>
     </comp>
     <comp ref="R3k1">
-      <value>3k3</value>
+      <value>3.3</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Price">0,11</field>
@@ -1265,7 +1390,7 @@
       <tstamps>b7c3c524-f131-4ae5-b7e1-047a9467f1db</tstamps>
     </comp>
     <comp ref="R17">
-      <value>3k3</value>
+      <value>3.3</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Price">0,11</field>
@@ -1299,7 +1424,7 @@
       <tstamps>aaee718a-bdda-4f2e-bf6b-95832130b5e2</tstamps>
     </comp>
     <comp ref="R20">
-      <value>3k3</value>
+      <value>3.3</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Price">0,11</field>
@@ -1316,7 +1441,7 @@
       <tstamps>b8cd82c2-9fc2-4a0d-9bb4-9c9cc693c25a</tstamps>
     </comp>
     <comp ref="R21">
-      <value>3k3</value>
+      <value>3.3</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <fields>
         <field name="Price">0,11</field>
