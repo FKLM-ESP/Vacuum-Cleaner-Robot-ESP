@@ -1141,7 +1141,6 @@
     )
   )
 
-
   (junction (at 197.485 143.51) (diameter 0) (color 0 0 0 0)
     (uuid 00b9b20c-29bd-4ac4-8551-07742b90d216)
   )
@@ -1791,10 +1790,6 @@
   (text "Battery connection and monitoring" (at 206.375 118.11 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 66c85003-82cb-42a7-b66e-c6b5fdaebc99)
-  )
-  (text "Main switch\nplaced in battery wire" (at 22.225 94.615 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 73f240e3-c974-485b-b20a-bd36a4286a44)
   )
   (text "Feedback from the output to keep it \nat 5V when load is connected"
     (at 111.76 44.45 0)

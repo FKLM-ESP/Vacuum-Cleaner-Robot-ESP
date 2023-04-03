@@ -1,4 +1,3 @@
-sep=;
 Item;Reference(s);Value;LibPart;Footprint;Datasheet;digikey link;Qty;Price;Combined
 1;C1, C18, C20, C21;1µF;Device:C_Small;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~;https://www.digikey.fi/en/products/detail/kemet/T491A104K035AT/818537;4;0,6324;2,5296
 2;C2, C3, C4, C8, C16, C17, C19;100nF;Device:C_Small;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~;https://www.digikey.fi/en/products/detail/kemet/T491A104K035AT/818537;7;0,6324;4,4268
@@ -32,9 +31,9 @@ Item;Reference(s);Value;LibPart;Footprint;Datasheet;digikey link;Qty;Price;Combi
 30;R3, R8, R12, R14, R15, R18, R22, R23;10k;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf;https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387;8;0,1116;0,8928
 31;R3k1, R17, R20, R21;3.03;Device:R;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC0402FR-133K3L/14286444;4;0,1116;0,4464
 32;R13;6.2k;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf;https://www.digikey.fi/en/products/detail/yageo/RC1206JR-076K2L/729319;1;0,1116;0,1116
-33;R16, R19;39k;Device:R;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC0402JR-0739KL/726473;2;0,1116;0,2232
+33;R16, R19;39k;Device:R;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC0402JR-0739KL/726473;2;0,1116;0,1116
 34;R24;450K;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC1206FR-07453KL/728925;1;0,1116;0,1116
-35;R25, R33;1M;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC1206JR-071ML/729187;2;0,1116;0,2232
+35;R33;1M;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC1206JR-071ML/729187;1;0,1116;0,2232
 36;R26, R27;100;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100RL/729206;2;0,1116;0,2232
 37;R28;100K;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/RC1206JR-07100KL/729207;1;0,1116;0,1116
 38;R29;10K;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf;https://www.digikey.fi/en/products/detail/yageo/RC1206FR-071KL/728387;1;0,1116;0,1116
@@ -44,13 +43,13 @@ Item;Reference(s);Value;LibPart;Footprint;Datasheet;digikey link;Qty;Price;Combi
 42;U1;BQ7791500PWT;BQ7791500PWT:BQ7791500PWT;SOP65P640X120-24N;https://www.ti.com/lit/ds/symlink/bq77915.pdf;https://www.digikey.fi/en/products/detail/texas-instruments/BQ7791500PWT/9654073?s=N4IgTCBcDaIEIEUDsSCcBGArABmwBQHUAVEAXQF8g;1;2.52;0,119444444
 43;U4, U6;DRV8871DDA;Driver_Motor:DRV8871DDA;Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias;http://www.ti.com/lit/ds/symlink/drv8871.pdf;https://www.digikey.it/en/products/detail/texas-instruments/DRV8871DDAR/5639726;2;3,38;6,76
 44;U5;LM2596S-5;Regulator_Switching:LM2596S-5;Package_TO_SOT_SMD:TO-263-5_TabPin3;http://www.ti.com/lit/ds/symlink/lm2596.pdf;https://www.digikey.fi/en/products/detail/texas-instruments/LM2596S-5-0/3701226;1;11,16;11,16
-45;;;;;;;;;0
+35;R25;10m;Device:R_Small;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;~;https://www.digikey.fi/en/products/detail/yageo/PA1206FRE070R01Z/16641940;1;0,4216;0,4216
 46;Not on PCB;B3F-1020 (Buttons);Not on PCB;;;https://www.digikey.fi/fi/products/detail/omron-electronics-inc-emc-div/B3F-1020/44059?utm_adgroup=Tactile%20Switches&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Switches&utm_term=&productid=44059&gclid=Cj0KCQjw2cWgBhDYARIsALggUhrMcVHIo79TlKi3VMpoGUYj5XC8-akj0oj3wKjnFhx83st14pL0OdUaAkT7EALw_wcB;2;0,4464;0,8928
-47;Not on PCB;CBM-A232S-125-482 (Fan);Not on PCB;;;https://www.digikey.fi/fi/products/detail/cui-devices/CBM-A232S-125-482/14558031;1;19,4432;19,4432
+47;Not on PCB;CBM-A232S-125-482 (Fan);Not on PCB;;;https://www.digikey.fi/fi/products/detail/cui-devices/CBM-A232S-125-482/14558031;2;19,4432;19,4432
 48;Not on PCB;3942(Ultrasonic);Not on PCB;;;https://www.digikey.fi/fi/products/detail/adafruit-industries-llc/3942/9658069;2;4,5756;9,1512
-49;Not on PCB;SEN0373(IMU);Not on PCB;;;https://www.digikey.fi/fi/products/detail/dfrobot/SEN0373/13590881?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Zombie%20SKU&utm_term=&productid=13590881&gclid=CjwKCAiArY2fBhB9EiwAWqHK6sSK9sG2r2HP3PeoOPxXPMrFOIsyrFqXOFLGO8NZcBn7gwlS-yPCMxoCJi4QAvD_BwE;1;16,12;16,12
-50;Not on PCB;317060016(Wifi module);Not on PCB;;;https://www.digikey.fi/fi/products/detail/seeed-technology-co-ltd/317060016/5774757;1;8,06;8,06
-51;Not on PCB;Etronix Sm Female Connector To Deans Male Plug;Not on PCB;;;https://www.hobbylinna.fi/fi/product/etronix-sm-female-connector-to-deans-male-plug/ET0809;1;2,5;2,5
-52;Not on PCB;Turnigy 2200mAh 3S 25C LiPo Pack;Not on PCB;;;https://hobbyking.com/en_us/turnigy-2200mah-3s-25c-lipo-pack.html;1;12,41;12,41
+49;Not on PCB;SEN0373(IMU);Not on PCB;;;https://www.digikey.fi/fi/products/detail/dfrobot/SEN0373/13590881?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Zombie%20SKU&utm_term=&productid=13590881&gclid=CjwKCAiArY2fBhB9EiwAWqHK6sSK9sG2r2HP3PeoOPxXPMrFOIsyrFqXOFLGO8NZcBn7gwlS-yPCMxoCJi4QAvD_BwE;2;16,12;16,12
+50;Not on PCB;317060016(Wifi module);Not on PCB;;;https://www.digikey.fi/fi/products/detail/seeed-technology-co-ltd/317060016/5774757;2;8,06;8,06
+51;Not on PCB;Etronix Sm Female Connector To Deans Male Plug;Not on PCB;;;https://www.hobbylinna.fi/fi/product/etronix-sm-female-connector-to-deans-male-plug/ET0809;2;2,5;2,5
+52;Not on PCB;Turnigy 2200mAh 3S 25C LiPo Pack;Not on PCB;;;https://hobbyking.com/en_us/turnigy-2200mah-3s-25c-lipo-pack.html;2;12,41;12,41
 ;;;;;;;;;
-;;;;;;;;Total Price:;131,05 Euro
+;;;;;;;;Total Price:;131,42 Euro
