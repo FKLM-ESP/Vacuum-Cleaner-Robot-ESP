@@ -3717,7 +3717,7 @@
     (property "Value" "XT60-M" (at 264.16 131.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "AMASS_XT60-M" (at 255.27 130.81 0)
+    (property "Footprint" "500SSP1S1M6QEA:AMASS_XT60-M" (at 255.27 130.81 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 255.27 130.81 0)
