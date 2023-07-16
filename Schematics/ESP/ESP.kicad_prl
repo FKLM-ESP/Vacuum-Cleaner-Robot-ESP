@@ -64,8 +64,8 @@
       39,
       40
     ],
-    "visible_layers": "ffdffef_7fffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffdffef_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "ESP.kicad_prl",
